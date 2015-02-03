@@ -1,0 +1,10 @@
+TODO list:
+-Set up DB for project
+-Create Java Desktop version
+-Set up moniter for DB
+-Release desktop version
+-Create Android version
+-Release Android version
+-Find sombody who can port to Apple
+-Release Apple version
+-Moniter DB throughout project
