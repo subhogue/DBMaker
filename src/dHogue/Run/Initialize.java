@@ -3,12 +3,9 @@ package dHogue.Run;
 import dHogue.View.MainView;
 
 public class Initialize 
-{
-	MainView view;
-	
-	
-	public void main(String[] args)
+{	
+	public static void main(String[] args)
 	{
-		view = new MainView();
+		MainView view = new MainView();
 	}
 }
