@@ -2,6 +2,8 @@ Current Status: started to work on the view.
 
 Overall Status: incomplete
 
-In Proggress: Main View.Java
+In Proggress: ViewListener.Java, ViewTemplate.Java
+
+Complete...for now at least: MainView.Java, initialize.Java
 
 Complete: N/A
